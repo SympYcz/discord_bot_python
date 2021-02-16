@@ -5,6 +5,7 @@ In this project you will find only one file but it contains everything you need 
 # What you will find?
 - Prefix
 - First Command
+- Custom Status
 
 # How to start?
 
